@@ -11,15 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My Website 
+# Pranav Perumal's First CS193 Homework
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- We are using terminal as a text editor
+- Navigating files directly from terminal seems fun
+- Makes me feel like a hacker
 
 1. Numbered
-2. List
+2. Lists
+3. are
+4. overrated
 
 **Bold** and _Italic_ and `Code` text
 
